@@ -6,9 +6,11 @@ namespace MethodsProject
     {
         static void Main(string[] args)
         {
+            // Exercise no. 1
 
             StoryTelling();
 
+            // Exercise no. 2
             var result1 = Sum(2, 6, 1, 1, 1);
             Console.WriteLine($"The sum is: {result1}");
 
